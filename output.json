@@ -1,0 +1,45 @@
+{
+    "0-10": [],
+    "10-20": [],
+    "20-30": [],
+    "30-40": [],
+    "40-50": [],
+    "50-60": [],
+    "60-70": [
+        {
+            "hub": "Bangalore",
+            "vehicle_type": "Scooter",
+            "vehicle_id": "2",
+            "model": "Ola",
+            "battery": "60",
+            "status": "Available",
+            "seats": "",
+            "max_speed": "60"
+        }
+    ],
+    "70-80": [],
+    "80-90": [
+        {
+            "hub": "Bangalore",
+            "vehicle_type": "Car",
+            "vehicle_id": "3",
+            "model": "BMW",
+            "battery": "85",
+            "status": "Available",
+            "seats": "4",
+            "max_speed": ""
+        }
+    ],
+    "90-100": [
+        {
+            "hub": "Bangalore",
+            "vehicle_type": "Car",
+            "vehicle_id": "1",
+            "model": "Tesla",
+            "battery": "90",
+            "status": "Available",
+            "seats": "5",
+            "max_speed": ""
+        }
+    ]
+}
